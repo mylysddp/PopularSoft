@@ -1,6 +1,6 @@
-
-
-![](%E5%9B%BE%E7%89%87%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80#id=evtoJ&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)![背景图片]([https://www.pexels.com/zh-cn/photo/8721342/](https://www.pexels.com/zh-cn/photo/8721342/))
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/githubdaily_brand.png](https://images.pexels.com/photos/8721342/pexels-photo-8721342.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)">
+</p>
 
 ## 前言
 > 💡 Tips：一直以来，都喜欢尝试各式各样的软件，但一直未将这些软件汇总在一块。经常想起某个软件有个不错的功能，但是却把软件名给忘记了。所以计划将这些产品汇总到一块，便于后续的查找。
