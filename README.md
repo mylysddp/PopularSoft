@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/githubdaily_brand.png](https://images.pexels.com/photos/8721342/pexels-photo-8721342.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)">
+  <img src="https://github.com/mylysddp/PopularSoft/blob/main/background.jpg">
 </p>
 
 ## 前言
