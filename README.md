@@ -14,3 +14,10 @@
 | [PureTwitter](https://chromewebstore.google.com/detail/puretwitter/nflidllhiamnebgbgoemadhhfdpbbpbi?hl=zh-cn) | 一款浏览器扩展，可以自动过滤掉包含色情、暴力或广告的推文和Twitter账户。有了这款扩展，您现在可以远离垃圾推文，享受更清洁、更安全的Twitter体验。告别不适当的内容，迎接更愉快的社交媒体体验。立即获取我们的浏览器扩展，开始享受更好的Twitter体验！|
 
 ## 
+
+## web工具
+| 名称 | 简述 |
+| --- | --- |
+| [AutoPilotI18n](https://www.taskease.info/zh_CN/AutoPilotI18n) | 1、使用AI自动对软件国际化处理 2、导入语言文件，选择要翻译语言，批量导出json\js文件 3、翻译过程考虑上下文，精准自动化翻译|
+
+## 
