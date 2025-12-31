@@ -20,5 +20,6 @@
 | --- | --- |
 | [AutoPilotI18n](https://www.taskease.info/zh_CN/AutoPilotI18n) | 1、使用AI自动对软件国际化处理 2、导入语言文件，选择要翻译语言，批量导出json\js文件 3、翻译过程考虑上下文，精准自动化翻译|
 | [BskyDelete](https://bskydelete.com/) | 1、批量管理Bluesky的内容 2、批量删除Bluesky的Post、repost、likes、following 3、可以导出预删除的内容|
+| [DeleteThreads](https://deletethreads.net/) | 1、批量管理Threads的内容 2、强大的批量搜索与即时删除 3、自动化规则与定时清理|
 
 ## 
